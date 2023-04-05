@@ -1,4 +1,4 @@
-# PromptLibrary
+# Spell Book by Jacamein
 ##### "Only for real prompt Wizards" 
 
 ## Prompt without context
