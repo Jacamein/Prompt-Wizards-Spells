@@ -708,7 +708,7 @@ Country:
 City: 
 
 
-## The Mother of all AI IMAGE PROMPT generator:
+## The Mother of all AI IMAGE PROMPT generator by All About AI:
 
 ### Step 1:
 
@@ -1142,7 +1142,7 @@ What club should I take on [THE HOLE YOU ARE PLAYING]? [OPTIONAL: MORE DETAILS A
     
 Act as an onomastician or genealogist and make a report on the [ANY LAST NAME] surname.
 
-## Midjourney Quick Master Prompt
+## Midjourney Quick Master Prompt by All About AI.
 
 ### Step 1:
 
