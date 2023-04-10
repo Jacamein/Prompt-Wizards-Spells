@@ -1152,4 +1152,4 @@ Acknowledge that you have read the info with answersing “READ”, then stay id
 
 ### Step 2:
 
-Great. Now generate a prompt of your interpretation of [ANYTHING YOU WANT TO GENERAT], [STYLE OF THE PHOTO].
+Great. Now generate a prompt of your interpretation of [ANYTHING YOU WANT TO GENERATE], [STYLE OF THE PHOTO].
