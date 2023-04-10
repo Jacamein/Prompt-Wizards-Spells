@@ -1,6 +1,6 @@
-# Prompt-Wizards-Spells
+# Intro to Prompt-Wizards-Spells
 
-## A Magical Prompt Library for ChatGPT
+##### "Only for real prompt Wizards" 
 
 Welcome, fellow nerds, to a mystical prompt library crafted for ChatGPT!
 
@@ -18,7 +18,6 @@ Jacamein.
 ----------------------------------------------------------------------------
 
 # Spell Book by Jacamein
-##### "Only for real prompt Wizards" 
 
 ## Creative Trigger.
 
