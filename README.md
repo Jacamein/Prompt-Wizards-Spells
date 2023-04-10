@@ -12,7 +12,7 @@ Language is the very tool through which we humans shape reality, and a prompt bu
 
 Herein lies a vast library of prompts, which I hope you'll find useful. Stay as long as you like, offer your feedback, and feel free to practice or even improve upon my work as a writer and curator. In the meantime, I will continue to expand and update this collection.
 
-Happy prompting, and may your character arcs take you where you want to be. 
+Happy prompting, use 'command + f' to search faster and may your character arcs take you where you want to be. 
 
 Jacamein. 
 ----------------------------------------------------------------------------
